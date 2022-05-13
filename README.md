@@ -1,2 +1,107 @@
-# Akbar-s-world
-I am a web developer
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Akbar's personal site</title>
+</head>
+<body>
+    <table cellspacing="20"> <tr>
+        <td><img src="flower.png" alt="beautiful flower" height="150" width="150"></td>
+        <td><h1>Akbar ali</h1>
+            <p><em> founder and CTO of App Brewery</em> <br></p>
+            <p>I am an iOS and web developer.</p></td>
+    </tr></table>
+
+
+
+    
+    <hr>
+    <h3>Education</h3>
+    <ul>
+        <li>The Complete iOS App Development Bootcamp</li>
+        <li>The Complete Web Development Bootcamp</li>
+    </ul>
+    <hr>
+    <h3> Work Experiance</h3>
+    <table border="1">
+        <tr>
+            <td>Akbar</td>
+            <td>12</td>
+        </tr>
+        <tr><td>philipp</td>
+        <td>14</td></tr>
+    </table>
+     <a href="hobbies.html" target="_blank">contat me</a>
+     <hr>
+     <!-- <table cellspacing="10">
+         <h3>Skills</h3>
+          <tr><td>ios Development</td>
+        <td>⭐⭐⭐⭐⭐</td></tr>
+         <tr><td>web  Development</td>
+        <td>⭐⭐⭐⭐⭐</td></tr>
+        <tr><td>photography  </td>
+        <td>⭐⭐</td></tr>
+        <tr><td>html,css </td>
+        <td>⭐</td></tr>
+     </table><hr> -->
+     <table cellspacing="20">
+         <tr>
+             <td>
+                <table cellspacing="10">
+                    <tr><td>web developer</td>
+                   <td>⭐⭐⭐⭐⭐</td>
+               </tr>
+               <tr><td>
+                   web designer</td>
+               <td>⭐⭐⭐⭐</td></tr>
+               <tr><td>Jquerry</td>
+               <td>⭐⭐⭐⭐</td></tr>
+           <tr><td>java script</td>
+           <td>⭐⭐⭐⭐⭐</td></tr>
+           <tr><td>logo designer</td>
+           <td>⭐⭐</td></tr>
+           <tr><td>graphics designer</td>
+           <td>⭐⭐⭐</td></tr>
+           <tr><td>My sql</td>
+           <td>⭐⭐⭐⭐</td></tr>
+           
+                </table>
+             </td>
+             <td><table>
+                <tr>
+                    <td>
+                       <table cellspacing="10">
+                           <tr><td>web developer</td>
+                          <td>⭐⭐⭐⭐⭐</td>
+                      </tr>
+                      <tr><td>
+                          web designer</td>
+                      <td>⭐⭐⭐⭐</td></tr>
+                      <tr><td>Jquerry</td>
+                      <td>⭐⭐⭐⭐</td></tr>
+                  <tr><td>java script</td>
+                  <td>⭐⭐⭐⭐⭐</td></tr>
+                  <tr><td>logo designer</td>
+                  <td>⭐⭐</td></tr>
+                  <tr><td>graphics designer</td>
+                  <td>⭐⭐⭐</td></tr>
+                  <tr><td>My sql</td>
+                  <td>⭐⭐⭐⭐</td></tr>
+                  
+                       </table>
+                    </td>
+                    <td></td>
+                </tr>
+            </table></td>
+         </tr>
+     </table>
+     <hr >
+
+   
+        
+   
+
+</body>
+</html>
